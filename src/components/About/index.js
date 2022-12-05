@@ -65,10 +65,13 @@ const About = () => {
             person, father of a beautiful daughter, a sports fanatic,
             photography enthusiast, and tech-obsessed!!!
           </p>
+          <div className='wrapper'>
+            <div className='btns'>
+              <a href='/portfolio/Resume.pdf' download>Resume</a>
+            </div>
+          </div>
         </div>
-        <div className='btns'>
-          <a href='#'>Resume</a>
-        </div>
+        
 
         <div className="stage-cube-cont">
           <div className="cubespinner">

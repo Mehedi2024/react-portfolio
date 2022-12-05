@@ -1,0 +1,49 @@
+.tech_name {
+  color: #f1c40f;
+}
+.link_tag {
+  color: #f1c40f;
+}
+.tag_canvus_ {
+  width: 100%;
+  margin-right: 0px;
+  transform: rotate(0);
+  z-index: 12;
+}
+div.skill_title {
+  margin-bottom: 2rem;
+}
+.skills_ {
+  display: flex;
+  flex-wrap: wrap;
+}
+.about_sub_title {
+  width: 100%;
+}
+.skill_description {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+div#canvas-container-word {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 992px) {
+  .skill .left_side {
+    padding-top: 6rem;
+  }
+  .skill .right_side {
+    width: 100%;
+  }
+  p.about_sub_title {
+    width: 100%;
+  }
+  .tag_canvus_ {
+    padding: 2rem;
+  }
+  .tech_name {
+    display: inline-block;
+  }
+}

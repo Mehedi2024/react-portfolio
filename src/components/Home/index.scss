@@ -40,9 +40,10 @@
     }
 
     img {
+
       margin-left: 20px;
       opacity: 0;
-      width: 35px;
+      width: 50px;
       height: auto;
       animation: rotateIn 1s linear both;
       animation-delay: 1.4s;
@@ -53,7 +54,7 @@
     color: #8d8d8d;
     margin-top: 20px;
     font-weight: 400;
-    font-size: 11px;
+    font-size: 20px;
     font-family: sans-serif;
     letter-spacing: 3px;
     animation: fadeIn 1s 1.8s backwards;

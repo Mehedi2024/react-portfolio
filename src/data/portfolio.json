@@ -5,13 +5,13 @@
             "cover": "/portfolio/1/one.png",
             "title":"GGWP",
             "description":"React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "url": "https://curious-cranachan-d8bd37.netlify.app/"
         },
         {
             "cover": "/portfolio/1/two.png",
             "title":"GGWP",
             "description":"React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "url": "https://melodic-stardust-c47319.netlify.app/"
         },
         {
             "cover":"/portfolio/1/two.png",

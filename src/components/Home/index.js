@@ -70,6 +70,13 @@ const Home = () => {
           </Link>
         </div>
 
+        <div className='loader'>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
       </div>
 
       <Loader type="pacman" />

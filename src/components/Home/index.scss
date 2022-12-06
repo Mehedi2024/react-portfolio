@@ -176,23 +176,16 @@
     width: 124px;
   }
 
-  .logo-container {
+  .loader {
     position: relative;
     width: 100px;
     height: auto;
-    top: 50px;
+    top: auto;
     right: 0;
     box-sizing: border-box;
     margin: auto;
     left: 0;
   }
 
-  .logo-container svg {
-    position: absolute;
-    top: auto;
-    right: auto;
-    bottom: auto;
-    left: 0;
-    margin: auto;
-  }
+
 }

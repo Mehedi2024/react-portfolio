@@ -83,7 +83,7 @@
   .loader{
     position: absolute;
     top: 50%;
-    left: calc(65% + 58px);
+    left: calc(62% + 14px);
     transform: translate(-50%,-50%) rotate(-90deg) scale(4);
   }
   .loader span{
@@ -177,14 +177,11 @@
   }
 
   .loader {
-    position: relative;
-    width: 100px;
-    height: auto;
-    top: auto;
-    right: 0;
-    box-sizing: border-box;
-    margin: auto;
-    left: 0;
+    float: none;
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 124px;
+
   }
 
 

@@ -20,10 +20,10 @@
             "url": "http://google.com"
         },
         {
-            "cover":"/portfolio/1/two.png",
+            "cover":"/portfolio/1/three.png",
             "title":"GGWP",
             "description":"React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "url": "https://quiet-hotteok-ec2aae.netlify.app/"
         }
     ]
 }

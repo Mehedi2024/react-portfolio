@@ -84,7 +84,7 @@
     position: absolute;
     top: 50%;
     left: calc(62% + 14px);
-    transform: translate(-50%,-50%) rotate(-90deg) scale(4);
+    transform: translate(-50%,-50%) rotate(-90deg) scale(3.5);
   }
   .loader span{
     position: relative;
@@ -181,6 +181,7 @@
     display: block;
     margin: 20px auto 0 auto;
     width: 124px;
+    transform: scale(3);
 
   }
 

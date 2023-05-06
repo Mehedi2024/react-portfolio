@@ -10,7 +10,7 @@ import './index.scss'
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
 
-  const nameArray = ['e', 'l', 'o', 'y']
+  const nameArray = ['N','e', 'l', 'o', 'y']
   const jobArray = [
     'w',
     'e',
@@ -48,10 +48,8 @@ const Home = () => {
             <br />
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
-            <img
-              src={LogoTitle}
-              alt="JavaScript Developer Name, Web Developer Name"
-            />
+            <span className={`${letterClass} _14`}>  </span>
+            
             <AnimatedLetters
               letterClass={letterClass}
               strArray={nameArray}

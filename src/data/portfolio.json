@@ -9,6 +9,11 @@
             "url": "https://stalwart-rugelach-1cdec9.netlify.app"
         },{
             "cover": "/portfolio/1/one.png",
+            "title":"Medicine E-commerce Website",
+            "description":"React, JSX, Tailwind, Jest",
+            "url": "https://magnificent-maamoul-418299.netlify.app/"
+        },{
+            "cover": "/portfolio/1/one.png",
             "title":"Restaurent Website",
             "description":"React, JSX, Tailwind, Jest",
             "url": "https://jolly-concha-42e993.netlify.app/"

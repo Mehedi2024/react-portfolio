@@ -1,9 +1,15 @@
 {
     
     "portfolio":[
+        
         {
+            "cover": "/portfolio/1/5.jpeg",
+            "title":"E-commerce Weebsite",
+            "description":"React, NEXT, Sanity, Stripe",
+            "url": "https://stalwart-rugelach-1cdec9.netlify.app"
+        },{
             "cover": "/portfolio/1/one.png",
-            "title":"GGWP",
+            "title":"Restaurent Website",
             "description":"React, JSX, Tailwind, Jest",
             "url": "https://jolly-concha-42e993.netlify.app/"
         },
@@ -21,7 +27,7 @@
         },
         {
             "cover":"/portfolio/1/four.png",
-            "title":"GGWP",
+            "title":"Cart",
             "description":"React, JSX, Tailwind, Jest",
             "url": "https://quiet-hotteok-ec2aae.netlify.app/"
         }

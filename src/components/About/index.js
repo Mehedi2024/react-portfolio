@@ -59,9 +59,9 @@ During my studies and practical experience, I have developed a comprehensive und
 
 I am a lifelong learner, always seeking to expand my knowledge and stay up-to-date with the latest industry trends and technologies. I enjoy collaborating with cross-functional teams, as it allows me to gain new perspectives and contribute to innovative solutions.<br/>
 
-Aside from coding, I am passionate about continuous improvement and enhancing the overall user experience. I pay close attention to details, ensuring pixel-perfect implementations and smooth interactions. I thrive in fast-paced environments and embrace challenges, constantly pushing myself to deliver high-quality results within tight deadlines.<br/>
+<p>Aside from coding, I am passionate about continuous improvement and enhancing the overall user experience. I pay close attention to details, ensuring pixel-perfect implementations and smooth interactions. I thrive in fast-paced environments and embrace challenges, constantly pushing myself to deliver high-quality results within tight deadlines.<br/>
 
-I believe that technology has the power to transform lives and make a positive impact on society. As a frontend developer, I am committed to creating intuitive and accessible experiences that delight users and enhance their daily lives.<br/>
+I believe that technology has the power to transform lives and make a positive impact on society. As a frontend developer, I am committed to creating intuitive and accessible experiences that delight users and enhance their daily lives.</p>
 
 Please feel free to explore my portfolio and projects to get a better sense of my skills and expertise. If you have any questions or would like to discuss potential collaborations, I would love to hear from you. Let's create something amazing together!
           </p>

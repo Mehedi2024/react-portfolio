@@ -7,6 +7,12 @@
             "title":"E-commerce Weebsite",
             "description":"React, NEXT, Sanity, Stripe",
             "url": "https://stalwart-rugelach-1cdec9.netlify.app"
+        },
+        {
+            "cover": "/portfolio/1/7.png",
+            "title":"AI Summarizer Website",
+            "description":"React, JSX, Tailwind, Jest",
+            "url": "https://profound-bublanina-3a5184.netlify.app/"
         },{
             "cover": "/portfolio/1/6.jpeg",
             "title":"Medicine E-commerce Website",

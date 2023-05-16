@@ -51,19 +51,29 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          <p>Hello! I'm [Your Name], a passionate and dedicated computer science and engineering graduate specializing in frontend development. I have a strong eye for design and a deep understanding of user experience, which I combine to create visually stunning and user-friendly websites and applications.
+
+With a solid foundation in HTML, CSS, and JavaScript, I leverage frameworks like React, Next.js, and Vite.js to build responsive and dynamic interfaces. I am proficient in using popular CSS libraries like Bootstrap, Material UI, and Tailwind CSS to create modern and aesthetically pleasing designs.
+
+During my studies and practical experience, I have developed a comprehensive understanding of frontend development principles and best practices. I am skilled in state management using tools like React Redux and Redux Toolkit, ensuring efficient data flow and scalability in my projects.
+
+I am a lifelong learner, always seeking to expand my knowledge and stay up-to-date with the latest industry trends and technologies. I enjoy collaborating with cross-functional teams, as it allows me to gain new perspectives and contribute to innovative solutions.
+
+Aside from coding, I am passionate about continuous improvement and enhancing the overall user experience. I pay close attention to details, ensuring pixel-perfect implementations and smooth interactions. I thrive in fast-paced environments and embrace challenges, constantly pushing myself to deliver high-quality results within tight deadlines.
+
+I believe that technology has the power to transform lives and make a positive impact on society. As a frontend developer, I am committed to creating intuitive and accessible experiences that delight users and enhance their daily lives.
+
+Please feel free to explore my portfolio and projects to get a better sense of my skills and expertise. If you have any questions or would like to discuss potential collaborations, I would love to hear from you. Let's create something amazing together!
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          I am a lifelong learner, always seeking to expand my knowledge and stay up-to-date with the latest industry trends and technologies. I enjoy collaborating with cross-functional teams, as it allows me to gain new perspectives and contribute to innovative solutions.
+
+Aside from coding, I am passionate about continuous improvement and enhancing the overall user experience. I pay close attention to details, ensuring pixel-perfect implementations and smooth interactions. I thrive in fast-paced environments and embrace challenges, constantly pushing myself to deliver high-quality results within tight deadlines.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          I believe that technology has the power to transform lives and make a positive impact on society. As a frontend developer, I am committed to creating intuitive and accessible experiences that delight users and enhance their daily lives.
+
+Please feel free to explore my portfolio and projects to get a better sense of my skills and expertise. If you have any questions or would like to discuss potential collaborations, I would love to hear from you. Let's create something amazing together!
           </p>
           <div className='wrapper'>
             <div className='btns'>
